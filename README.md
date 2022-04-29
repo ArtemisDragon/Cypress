@@ -1,2 +1,2 @@
-# Cypress
+# CypressTesting
 Cypress Testing Repo
